@@ -18,13 +18,13 @@
 
  ### 📈 Estatísticas
  <p>
-  <img 
+ <!-- <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=FranTadiello&show_icons=true&theme=onedark&locale=pt-br" 
-  />
+  /> -->
 
 <img 
       align="left" 
